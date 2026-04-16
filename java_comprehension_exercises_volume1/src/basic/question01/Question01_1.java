@@ -7,9 +7,16 @@ package basic.question01;
 public class Question01_1 {
 
 	public static void main(String[] args) {
+		int price = 120;
+		String item = "ノート";
 
-		// TODO:ここに実装
+		System.out.println(price);
+		System.out.println(item);
 
+		price = 200;
+		item = "鉛筆";
+
+		System.out.println(price);
+		System.out.println(item);
 	}
-
 }
